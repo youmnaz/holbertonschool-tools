@@ -1,2 +1,2 @@
-#!/bin/bash 
-ls . -la join ls .. -la join ls -la /boot
+#!/bin/bash
+ls -la . ../boot
