@@ -1,2 +1,2 @@
 #!/bin/bash
-chown username:betty * join chgrp holberton *
+chown betty:holberton*
