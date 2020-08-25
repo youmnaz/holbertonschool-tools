@@ -1,2 +1,2 @@
 #!/bib/bash
-echo Hello, World > &1
+echo -e "Hello, World/n"
