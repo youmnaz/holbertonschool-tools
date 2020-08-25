@@ -1,2 +1,2 @@
 #!/bin/bash
-grep /etc/passwd | sort | less
+grep /etc/passwd | sort -t | less
