@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -d less /etc/passwd
+less -d /etc/passwd
