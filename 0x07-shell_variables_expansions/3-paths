@@ -1,2 +1,2 @@
 #!/bin/bash
-export $PATH | grep ^d | wc -l
+$PATH | grep ':' | wc -m
